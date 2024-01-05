@@ -1,3 +1,15 @@
 body {
     background-image: url("/assets/artwork/webbackground1.png");
   }
+
+#aboutme {
+  background-color: azure;
+  opacity: 0.8;
+  padding-top: 20px;
+  
+}
+
+#container1 {
+  padding-top: 40px;
+  margin: auto;
+}
