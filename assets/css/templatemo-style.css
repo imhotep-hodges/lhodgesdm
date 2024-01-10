@@ -12,20 +12,19 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-#page-wraper {
-    background: url(/assets/artwork/port-background.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    width: 100%;
-}
+
 
 
 /* Basic */
 
 body {
     overflow-x: hidden;
+    background: url(/assets/artwork/port-background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
 }
 
 input,
